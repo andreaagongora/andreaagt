@@ -1,14 +1,12 @@
 👋 Hi, My name is Andrea
 
-👀 I’m interested in web dev (Django and flask) and data analytics
-
-🌱 I’m currently learning Django REST framework
+🌱 I’m currently working with NodeJS framework
 
 🛡⚔ My technologies are <br>
  &emsp; &emsp; 🐍 Python <br>
  &emsp; &emsp; 🟠 HTML <br>
  &emsp; &emsp; 🔵 CSS <br>
- &emsp; &emsp; 🟡 Javascript (basic) <br>
+ &emsp; &emsp; 🟡 Javascript <br>
         
 🤖 twitter @andreaagongora
         
