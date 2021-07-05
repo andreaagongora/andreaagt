@@ -1,6 +1,5 @@
 👋 Hi, My name is Andrea
 
-🌱 I’m currently working with NodeJS framework
 
 🛡⚔ My technologies are <br>
  &emsp; &emsp; 🐍 Python <br>
