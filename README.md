@@ -6,9 +6,7 @@
  &emsp; &emsp; 🟠 HTML <br>
  &emsp; &emsp; 🔵 CSS <br>
  &emsp; &emsp; 🟡 Javascript <br>
-        
-🤖 twitter @andreaagongora
-        
+         
 
 <!---
 andreaagt/andreaagt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
